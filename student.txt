@@ -1,1 +1,2 @@
 Name: Anning
+Major: Mechanical Engineering
